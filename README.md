@@ -1,4 +1,4 @@
-# # Product Name Goes Here
+# OverOps
 [OverOps](https://www.overops.com/) is a leading monitoring solution that provides direct insight into code level issues. This integration leverages the [Webhook alerts](https://support.overops.com/hc/en-us/articles/115000468747-Outgoing-Webhook-Integration) to fire events into xMatters. 
 
 # Pre-Requisites
@@ -6,7 +6,7 @@
 * xMatters account - If you don't have one, [get one](https://www.xmatters.com)!
 
 # Files
-* [COMMPLAN](COMMPLAN)
+* [OverOpsCommPlan.zip](OverOpsCommPlan.zip) - Communications plan with inbound integration and message templates
 
 # Installation
 
