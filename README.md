@@ -35,6 +35,7 @@
 <kbd>
 	<img src="media/OverOps_Adv_Settings.png" height="400">
 </kbd>
+
 4. Click Save & Finish. 
    
 # Testing
