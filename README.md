@@ -31,6 +31,10 @@
 
 
 3. Click the slider switch next to Webhook and paste in the url copied from the xMatters Comm Plan. 
+
+<kbd>
+	<img src="media/OverOps_Adv_Settings.png" height="400">
+</kbd>
 4. Click Save & Finish. 
    
 # Testing
