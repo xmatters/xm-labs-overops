@@ -15,13 +15,13 @@
 * xMatters account - If you don't have one, [get one](https://www.xmatters.com)!
 
 # Files
-* [OverOpsCommPlan.zip](OverOpsCommPlan.zip) - Communications plan with inbound integration and message templates
+* [OverOpsWorkflow.zip](OverOpsWorkflow.zip) - Workflow zip with inbound integration and message templates
 
 # Installation
 
 ## xMatters set up
 1. Login to the xMatters instance as a developer and navigate to the Developer tab. 
-2. Next to the OverOps communications plan, click Edit > Integration Builder and expand the Inbound Integrations.
+2. Next to the OverOps Workflow, click Edit > Integration Builder and expand the Inbound Integrations.
 3. Click on the `Inbound from OverOps` script and copy the inbound url at the bottom. Save this for later. 
 4. Click on the Forms tab and under the `New Exception` form click Edit > Layout. Enter the default recipients and click Save Changes. (An alternative to defaulting the recipients is to create a new [Subscription Form](https://help.xmatters.com/OnDemand/xmodwelcome/communicationplanbuilder/subscriptionforms.htm?cshid=SubscriptionFormListPlace))
 
@@ -39,7 +39,7 @@
 </kbd>
 
 
-3. Click the slider switch next to Webhook and paste in the url copied from the xMatters Comm Plan. 
+3. Click the slider switch next to Webhook and paste in the url copied from the xMatters Workflow. 
 
 <kbd>
 	<img src="media/OverOps_Adv_Settings.png" height="400">
