@@ -9,6 +9,9 @@
 
 ---------
 
+An updated version of this integration is available, supporting the latest version of OverOps and based on xMatters Flow Designer so you can easily connect other tools to your toolchain. [Learn more](http://help.xmatters.com/integrations/#cshid=OverOps).
+
+---------
 
 # Pre-Requisites
 * OverOps Account 
